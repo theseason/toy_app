@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "file": "microposts.css",
+  "sources": [
+    "microposts.scss"
+  ],
+  "sourcesContent": [],
+  "mappings": "",
+  "names": []
+}
